@@ -6,7 +6,7 @@ const BannerOne = () => {
     return (
         <div className="axil-slider-area axil-slide-activation">
             <div
-                className="axil-slide slide-style-default theme-gradient slider-fixed-height d-flex align-items-center paralax-area">
+                className="axil-slide slide-style-default bg-color-white slider-fixed-height d-flex align-items-center paralax-area">
                 <div className="container">
                     <div className="row align-items-center pt_md--60 mt_sm--60">
                         <div className="col-lg-7 col-12 order-2 order-lg-1">

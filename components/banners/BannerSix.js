@@ -5,7 +5,7 @@ const BannerSix = (
     {
         title = 'Best solutions for your business',
         subtitle = 'A quick view of industry specific problems solved with design by the awesome team at Keystroke.',
-        bannerStyleClass = 'axil-breadcrumb-area breadcrumb-style-2 pt--170 pb--70 theme-gradient',
+        bannerStyleClass = 'axil-breadcrumb-area breadcrumb-style-2 pt--170 pb--70 bg-color-white',
         bannerTitleClass = 'page-title mb--20',
         leftColumn = 'col-lg-5 order-2 order-lg-1 mt_md--30 mt_sm--30',
         rightColumn = 'col-lg-7 order-1 order-lg-2',

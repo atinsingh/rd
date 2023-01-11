@@ -11,7 +11,7 @@ const BlogOne = ({posts}) => {
     };
 
     return (
-        <div className="axil-blog-area ax-section-gap bg-color-lightest">
+        <div className="axil-blog-area ax-section-gap bg-color-white">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">

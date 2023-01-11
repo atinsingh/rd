@@ -6,7 +6,7 @@ import SectionTitle from '../common/SectionTitle';
 import PortfolioCard from './PortfolioCard';
 import PortfolioFilter from './PortfolioFilter';
 
-const PortfolioOne = ({bgColor = "bg-color-lightest"}) => {
+const PortfolioOne = ({bgColor = "bg-color-white"}) => {
     const [activePortfolio, setActivePortfolio] = useState(0);
     const [filterdPortfolioData, setFilterdPortfolioData] = useState([]);
     const [activeGenre, setActiveGenre] = useState(0);

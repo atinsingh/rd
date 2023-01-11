@@ -12,9 +12,18 @@ const Testimonial = () => {
     const changeActive = (index) => {
         setActiveTestimonial(index);
     };
-
+    const layoutSettings = {
+        header: {
+            style: 'four',
+            leftColumn: 'col-lg-3 col-md-6 col-sm-6 col-8',
+            rightColumn: 'col-lg-9 col-md-6 col-sm-6 col-4',
+        },
+        footer: {
+            style: 'three',
+        },
+    };
     return (
-        <Layout>
+        <Layout layoutSettings={layoutSettings}>
             <Head>
                 <title>Customer Reviews || keystroke Creative Agency Bootstrap5 Template</title>
             </Head>

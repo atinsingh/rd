@@ -17,8 +17,18 @@ import TeamOne from '../components/teams/TeamOne';
 import TestimonialOne from '../components/testimonials/TestimonialOne';
 
 const HomeOne = ({posts}) => {
+    const layoutSettings = {
+        header: {
+            style: 'four',
+            leftColumn: 'col-lg-3 col-md-6 col-sm-6 col-8',
+            rightColumn: 'col-lg-9 col-md-6 col-sm-6 col-4',
+        },
+        footer: {
+            style: 'three',
+        },
+    };
     return (
-        <Layout>
+        <Layout layoutSettings={layoutSettings}>
             <Head>
                 <title>Home 01 || keystroke Creative Agency Bootstrap5 Template</title>
             </Head>

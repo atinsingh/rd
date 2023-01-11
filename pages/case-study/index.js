@@ -28,7 +28,7 @@ const CaseStudy = () => {
                     subtitle="A quick view of industry specific problems solved with design by the awesome team at Keystroke."
                 />
 
-                <div className="axil-featured-area ax-section-gap bg-color-lightest color-darkest">
+                <div className="axil-featured-area ax-section-gap bg-color-white color-darkest">
                     <div className="container">
                         {CaseStudiesData?.map((caseStudy, index) => (
                             <div

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Home",
-    "url": "#",
+    "url": "/",
     "hasChildren": false,
     "clildrens": [
       { "id": 1, "title": "Digital Agency", "url": "/home-01" },
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "title": "Services",
-    "url": "#",
+    "url": "/services",
     "hasChildren": false,
     "clildrens": [
       { "id": 1, "title": "Services", "url": "/services" },
@@ -36,8 +36,8 @@
   {
     "id": 4,
     "title": "Blog",
-    "url": "#",
-    "hasChildren": true,
+    "url": "/blog",
+    "hasChildren": false,
     "clildrens": [
       { "id": 1, "title": "Blog List", "url": "/blog" },
       { "id": 2, "title": "Blog List Two", "url": "/blog-list-two" },
@@ -48,7 +48,7 @@
     "id": 5,
     "title": "Pages",
     "url": "#",
-    "hasChildren": true,
+    "hasChildren": false,
     "clildrens": [
       { "id": 1, "title": "Button", "url": "/button" },
       { "id": 2, "title": "Typography", "url": "/typography" },

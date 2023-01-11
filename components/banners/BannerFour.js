@@ -5,7 +5,7 @@ import Link from "next/link";
 const BannerFour = () => {
     return (
         <div className="axil-slider-area axil-slide-activation">
-            <div className="axil-slide slide-style-4 theme-gradient-4 slider-fixed-height d-flex align-items-center">
+            <div className="axil-slide slide-style-4 bg-color-white slider-fixed-height d-flex align-items-center">
                 <div className="container pt--80 pt_sm--40 pt_md--40">
                     <div className="row align-items-center">
                         <div className="col-lg-8 col-12 order-2 order-lg-1 mt_md--40 mt_sm--30">

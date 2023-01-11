@@ -11,7 +11,7 @@ const TestimonialOne = () => {
     };
 
     return (
-        <div className="axil-testimonial-area ax-section-gap bg-color-lightest">
+        <div className="axil-testimonial-area ax-section-gap bg-color-white">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">

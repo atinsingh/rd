@@ -3,7 +3,7 @@ import Link from 'next/link';
 const BannerTwo = () => {
     return (
         <div className="axil-slider-area axil-slide-activation">
-            <div className="axil-slide banner-technology bg_image theme-gradient"
+            <div className="axil-slide banner-technology bg_image bg-color-white"
                  style={{backgroundImage: "url(images/bg/bg-image-3.jpg)"}}>
                 <div className="container">
                     <div className="row align-items-center">

@@ -7,7 +7,7 @@ const PricingOne = () => {
   const [pricings, setPricings] = useState(PricingData.slice(0, 2));
   
   return (
-    <div className="axil-pricing-table-area pricing-shape-position ax-section-gap bg-color-lightest">
+    <div className="axil-pricing-table-area pricing-shape-position ax-section-gap bg-color-white">
       <div className="container">
         <div className="row">
           <div className="col-lg-12">

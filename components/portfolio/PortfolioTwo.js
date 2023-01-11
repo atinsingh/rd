@@ -11,7 +11,7 @@ const PortfolioTwo = () => {
   };
 
   return (
-    <div className="axil-portfolio-area ax-section-gap bg-color-lightest">
+    <div className="axil-portfolio-area ax-section-gap bg-color-white">
       <div className="container axil-masonary-wrapper">
         <div className="row">
           <div className="col-lg-12 col-md-12">

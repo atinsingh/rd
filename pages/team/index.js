@@ -41,7 +41,7 @@ const Team = () => {
             </Head>
 
             <main className="page-wrapper">
-                <div className="axil-breadcrumb-area breadcrumb-style-2 team-group-thumb pt--170 pb--70 theme-gradient">
+                <div className="axil-breadcrumb-area breadcrumb-style-2 team-group-thumb pt--170 pb--70 bg-color-white">
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-5 order-2 order-lg-1 mt_md--30 mt_sm--30">
@@ -107,7 +107,7 @@ const Team = () => {
 
                 <CounterTwo/>
 
-                <div className="axil-team-area ax-section-gap bg-color-lightest">
+                <div className="axil-team-area ax-section-gap bg-color-white">
                     <div className="container">
                         <div className="row align-items-end">
                             <div className="col-lg-12 col-xl-4">

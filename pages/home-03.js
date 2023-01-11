@@ -10,12 +10,12 @@ import TestimonialTwo from '../components/testimonials/TestimonialTwo';
 const HomeThree = () => {
     const layoutSettings = {
         header: {
-            style: "three",
-            leftColumn: "col-lg-4 col-md-6 col-sm-6 col-8 header-left",
-            rightColumn: "col-lg-8 col-md-6 col-sm-6 col-4 header-right",
+            style: 'four',
+            leftColumn: 'col-lg-3 col-md-6 col-sm-6 col-8',
+            rightColumn: 'col-lg-9 col-md-6 col-sm-6 col-4',
         },
         footer: {
-            showCopyrightOnly: true,
+            style: 'three',
         },
     };
 

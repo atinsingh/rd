@@ -2,7 +2,7 @@ import SectionTitle from '../common/SectionTitle';
 
 const CallToActionOne = () => {
     return (
-        <div className="axil-call-to-action-area shape-position ax-section-gap theme-gradient">
+        <div className="axil-call-to-action-area shape-position ax-section-gap bg-color-white">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">

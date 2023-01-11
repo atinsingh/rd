@@ -22,7 +22,7 @@ const BannerThree = () => {
 
     return (
         <div className="axil-slider-area portfolio-slider axil-slide-activation fix">
-            <div className="axil-slide slide-style-3 theme-gradient-3 slider-fixed-height d-flex align-items-center">
+            <div className="axil-slide slide-style-3 bg-color-white slider-fixed-height d-flex align-items-center">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-12">

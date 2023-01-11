@@ -4,7 +4,7 @@ import { SplitText } from "../common/SplitText";
 
 const ContactOne = () => {
   return (
-    <div className="axil-contact-area ax-section-gap bg-color-lightest">
+    <div className="axil-contact-area ax-section-gap bg-color-white">
       <div className="container">
         <div className="row">
           <div className="col-lg-5 col-xl-4 col-md-12 col-12">

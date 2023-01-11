@@ -6,7 +6,7 @@ import CaseStudyCard from './CaseStudyCard';
 const CaseStudyOne = () => {
     return (
         <div
-            className="axil-case-study-area ax-section-gap bg-color-lightest"
+            className="axil-case-study-area ax-section-gap bg-color-white"
             id="sectionBottom"
         >
             <div className="container">

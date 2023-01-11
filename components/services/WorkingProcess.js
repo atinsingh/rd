@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const WorkingProcess = ({process}) => {
     return (
-        <div className="axil-working-process-area ax-section-gap theme-gradient-4">
+        <div className="axil-working-process-area ax-section-gap bg-color-white">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">

@@ -10,7 +10,7 @@ const BannerSeven = (
     }
 ) => {
     return (
-        <div className="axil-breadcrumb-area breadcrumb-style-2 single-service pt--170 pb--70 theme-gradient">
+        <div className="axil-breadcrumb-area breadcrumb-style-2 single-service pt--170 pb--70 bg-color-white">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-2 order-lg-1 mt_md--30 mt_sm--30">

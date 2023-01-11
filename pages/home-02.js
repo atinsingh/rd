@@ -16,12 +16,12 @@ import TestimonialOne from '../components/testimonials/TestimonialOne';
 const HomeTwo = ({posts}) => {
     const layoutSettings = {
         header: {
-            style: "two",
-            leftColumn: "col-lg-3 col-xl-3 col-md-6 col-sm-6 col-8 header-left",
-            rightColumn: "col-lg-2 col-xl-3 col-md-6 col-sm-6 col-4 header-right",
+            style: 'four',
+            leftColumn: 'col-lg-3 col-md-6 col-sm-6 col-8',
+            rightColumn: 'col-lg-9 col-md-6 col-sm-6 col-4',
         },
         footer: {
-            showCopyrightOnly: false,
+            style: 'three',
         },
     };
 

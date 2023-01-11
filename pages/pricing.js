@@ -7,8 +7,18 @@ import PricingTable from "../components/pricings/PricingTable";
 import PricingData from "../data/Pricings.json";
 
 const Pricing = () => {
+  const layoutSettings = {
+    header: {
+        style: 'four',
+        leftColumn: 'col-lg-3 col-md-6 col-sm-6 col-8',
+        rightColumn: 'col-lg-9 col-md-6 col-sm-6 col-4',
+    },
+    footer: {
+        style: 'three',
+    },
+};
   return (
-    <Layout>
+    <Layout layoutSettings={layoutSettings}>
       <Head>
         <title>Pricing || Keystroke Creative Agency Bootstrap 5 Template</title>
       </Head>
